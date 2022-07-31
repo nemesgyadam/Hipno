@@ -1,0 +1,4 @@
+*.pyc
+resources/*
+hipno
+hipnoses-API_key.json
